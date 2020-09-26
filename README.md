@@ -12,3 +12,7 @@ Mini Projects for JS
 3. Review
 
 ![Screen Recording 2020-09-26 at 5 43 06 PM](https://user-images.githubusercontent.com/28387607/94340520-1cf98480-0020-11eb-8e98-7f74f1a4b1a3.gif)
+
+4. Modal Overlay
+
+![Screen Recording 2020-09-26 at 7 34 41 PM](https://user-images.githubusercontent.com/28387607/94342610-c8f69c00-002f-11eb-99b3-1b3a51375715.gif)
